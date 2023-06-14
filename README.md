@@ -1,6 +1,7 @@
 ### Dépôt pour la recherche de master 1 en [Humanités Numériques](https://www.chartes.psl.eu/).
 # La compréhension des motifs tissés dans les Andes : une approche par la détection automatique
-====
+
+
 ![illustration_page5](images_rescaled/A2_L02.jpg)
 
 Ce projet porte sur la détection de motifs dans des textiles andins grâce à l'apprentissage supervisé.
