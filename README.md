@@ -13,6 +13,7 @@ Ce projet porte sur la détection de motifs dans des textiles andins grâce à l
    - `source/` : le dossier contant le code source LaTex pour la rédaction du mini-mémmoire.
    - Le mini-mémoire de master 1 au format PDF.
 - `annotations/` : le dossier contient les annotations en COCO json réalisées sur le site [_VGG Image Annotator_](https://www.robots.ox.ac.uk/~vgg/software/via/via.html).
+- `model_manta.xlsx` : le fichier Excel contenant une modélisation de la manta.
 
 
 ### Auteure
